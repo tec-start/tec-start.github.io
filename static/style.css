@@ -50,11 +50,12 @@ a, a:hover, a:visited {
 #header {
     width: 1152px;
     z-index: -1;
+    margin: 0 auto;
+}
+
+#header img {
     position: fixed;
-    top: 50%;
-    left: 50%;
-    margin-top: -195px;
-    margin-left: -576px;
+    top: 0;
 }
 
 #content {

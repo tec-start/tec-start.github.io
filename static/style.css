@@ -62,6 +62,7 @@ a, a:hover, a:visited {
 #content {
     height: 1200px;
     background: white;
+    position: relative;
 }
 
 #content .column {

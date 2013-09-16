@@ -51,9 +51,6 @@ a, a:hover, a:visited {
     width: 1152px;
     z-index: -1;
     margin: 0 auto;
-}
-
-#header img {
     position: fixed;
     top: 0;
 }

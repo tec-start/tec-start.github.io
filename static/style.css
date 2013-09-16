@@ -43,18 +43,19 @@ a, a:hover, a:visited {
     width: 1152px; 
     height: 100%;
     background: white;
+    position: relative;
+    top: 390px;
 }
 
-img#header {
+#header {
     position: fixed;
     top: 0;
+    z-index: -1;
 }
 
 #content {
     height: 1200px;
     background: white;
-    position: relative;
-    top: 390px;
 }
 
 #content .column {
